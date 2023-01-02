@@ -1,0 +1,7 @@
+export * from './home/home-page'
+export * from './events/events-page'
+export * from './events/catEvent'
+export * from './events/single-event'
+export * from './header/header'
+export * from './footer/footer'
+export * from './layout/main-layout'
